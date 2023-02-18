@@ -15,3 +15,18 @@ general template for any project
 ```bash
 commit and push the changes.
 ```
+
+# Jupyter notebook
+```bash
+download data but put in .gitignore to not push to github
+```
+
+# Git Updated
+```bash
+commit and push the changes.
+```
+
+# Jupyter notebook
+```bash
+image processing
+```
