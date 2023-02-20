@@ -30,3 +30,8 @@ commit and push the changes.
 ```bash
 image processing
 ```
+
+# Git Updated
+```bash
+commit and push the changes.
+```
