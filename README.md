@@ -3,7 +3,7 @@ general template for any project
 
 # create and activate env
 ```bash
-1. conda create --prefix ./env python==3.7 -y
+1. conda create --prefix ./env python==3.8 -y
 2. conda activate ./env
 ```
 # Install requirements
